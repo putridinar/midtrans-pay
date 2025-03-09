@@ -1,5 +1,6 @@
-name = "midtrans-worker"
-type = "javascript"
+name = "midtrans-functions"
 
 [vars]
 MIDTRANS_SERVER_KEY = "SB-Mid-server-CyKGMYV99Y-uQX8Cdhnewuxy"
+
+main = "./functions/midtrans-token.js"
