@@ -1,6 +1,6 @@
 export default {
     async fetch(request, env) {
-        if (request.method === 'POST' && request.url.includes('/function/midtrans')) {
+        if (request.method === 'POST' && request.url.includes('/midtrans-token')) {
             try {
                 const { order_id, amount, customer_details } = await request.json();
 
