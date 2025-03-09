@@ -5,3 +5,7 @@ compatibility_date = "2025-03-09"
 MIDTRANS_SERVER_KEY = "SB-Mid-server-CyKGMYV99Y-uQX8Cdhnewuxy"
 
 main = "./functions/midtrans-token.js"
+
+[env.production]
+account_id = "f9396f6906749ab01a50950228a45fa2"
+api_token = "WHb_X58h7xDy0UBhOUDoENdmA1jfwLgQs16v9G1d"
