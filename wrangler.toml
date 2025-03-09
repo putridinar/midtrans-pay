@@ -8,4 +8,4 @@ main = "./functions/midtrans-token.js"
 
 [env.production]
 account_id = "f9396f6906749ab01a50950228a45fa2"
-api_token = "WHb_X58h7xDy0UBhOUDoENdmA1jfwLgQs16v9G1d"
+api_token = "m40Ega6wNNvCGG2xqLFIYDFHTbfcUN55sgrCvve1"
