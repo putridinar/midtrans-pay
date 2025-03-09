@@ -1,4 +1,5 @@
 name = "midtrans-functions"
+compatibility_date = "2025-03-09"
 
 [vars]
 MIDTRANS_SERVER_KEY = "SB-Mid-server-CyKGMYV99Y-uQX8Cdhnewuxy"
